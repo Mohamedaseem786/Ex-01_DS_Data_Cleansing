@@ -41,3 +41,5 @@ df.info()
 df.isnull().sum()
 ```
 # OUPUT
+# Data:
+![gitlogo](.ot1)
